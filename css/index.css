@@ -245,3 +245,12 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.about {
+    margin: 2%;
+}
+.learn-more {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 95px;
+    text-align: center;
+}

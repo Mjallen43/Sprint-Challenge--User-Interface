@@ -254,3 +254,6 @@ footer nav a {
     width: 95px;
     text-align: center;
 }
+.strategy-header p {
+    border-bottom: 1px dashed black;
+}

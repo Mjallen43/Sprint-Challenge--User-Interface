@@ -72,10 +72,15 @@ p {
 }
 .header, .header-nav {
     display: flex;
-
+    margin: 2%;
 }
-nav a:link {
+.header a {
     text-decoration: none;
+    color: black;
+    justify-content: space-between;
+}
+.jumbo-image {
+    margin: 2%
 }
 .top-content {
     display: flex;

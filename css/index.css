@@ -70,7 +70,13 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+.header, .header-nav {
+    display: flex;
 
+}
+nav a:link {
+    text-decoration: none;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
